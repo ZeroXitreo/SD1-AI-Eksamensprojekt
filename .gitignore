@@ -116,3 +116,4 @@ dmypy.json
 # Ignore testset
 imgs/
 *.pkl
+submission.csv
