@@ -117,3 +117,4 @@ dmypy.json
 imgs/
 *.pkl
 submission.csv
+.vscode/settings.json
